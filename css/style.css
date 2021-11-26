@@ -18,7 +18,7 @@
     padding: 25px 20px;
 }
 
-input {
+.input {
     width: 324px;
     height: 96px;
     font-weight: 300;
@@ -30,10 +30,10 @@ input {
     margin-bottom: 15px;
 }
 
-input:active, input:hover, input:focus {
-    outline: 0;
-    outline-offset: 0;
-}
+/*input:active, input:hover, input:focus {*/
+/*    outline: 0;*/
+/*    outline-offset: 0;*/
+/*}*/
 
 .buttons {
     display: grid;
